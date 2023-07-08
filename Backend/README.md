@@ -1,8 +1,3 @@
-# ConfortHogar_SpringIMPL
- "Confort Hogar" es un proyecto en Spring basado en BPMN que ofrece un endpoint externo. Permite a los usuarios interactuar con flujo y recibir notificaciones. La arquitectura escalable de Spring garantiza una integración fluida con otros sistemas.
-
-## Requisitos
-- Java 11 o superior
 
 ## Instalación
 - Primero descargue el repositorio, click en el botón verde "Code" y luego en "Download ZIP". Descomprima el archivo y ábralo en su IDE de preferencia.
